@@ -1,0 +1,43 @@
+@media (max-width: 700px) {
+    p.desc {
+        font-size: 17px;
+    }
+    p.legenda {
+        font-size: 20px;
+    }
+    .info h1 {
+        font-size: 25px;
+    }
+    ul, li {
+        font-size: small;
+    }
+    .logos {
+        height: 45px;
+        width: 45px;
+    }
+    main {
+        width: 380px;
+    }
+}
+
+@media (min-width: 1400px) {
+    p.desc {
+        font-size: 27px;
+    }
+    p.legenda {
+        font-size: 24px;
+    }
+    .info h1 {
+        font-size: 35px;
+    }
+    ul, li {
+        font-size: large;
+    }
+    .logos {
+        height: 60px;
+        width: 60px;
+    }
+    main {
+        width: 480px;
+    }
+}
