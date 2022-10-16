@@ -1,5 +1,5 @@
 # profile-card
-###Profile Card feito com CSS e JS
+Profile Card feito com CSS e JS
 
 #### Olá, este é um commit que eu fiz faz algum tempo, porém só postei ele agora :')
 #### Basicamente se trata de um profile card sobre mim (porque sim) responsivo, com possibilidade de alternar entre tema claro e escuro
